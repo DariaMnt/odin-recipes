@@ -1,0 +1,13 @@
+/* index page */
+
+.text {
+     background-color: #4d4f8f;
+     font-family: Georgia, serif;
+     color: rgb(239, 227, 227);
+     font-weight: bold;
+     font-size: 52px;
+}
+
+.text.recipe {
+     font-size: 30px;
+}
