@@ -11,3 +11,33 @@
 .text.recipe {
      font-size: 30px;
 }
+
+
+/* all 3 */
+
+.recipes {
+     background-color: #4d4f8f;
+     font-family: Georgia, serif;
+     color: rgb(239, 227, 227);
+}
+
+.title-recipes,
+.ingredients,
+.steps {
+     font-weight: bold;
+}
+
+.image-one {
+     width: 450px;
+     height: 600px;
+}
+
+.image-two {
+     width: 400px;
+     height: 600px;
+}
+
+.image-three {
+     width: 800px;
+     height: 400px;
+}
