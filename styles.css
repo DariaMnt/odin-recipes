@@ -1,11 +1,12 @@
 /* index page */
 
 .text {
-     background-color: #4d4f8f;
+     background-color: #a5a8f8;
      font-family: Georgia, serif;
-     color: rgb(239, 227, 227);
+     color: rgb(66, 57, 57);
      font-weight: bold;
      font-size: 52px;
+     text-align: center;
 }
 
 .text.recipe {
@@ -16,9 +17,13 @@
 /* all 3 */
 
 .recipes {
-     background-color: #4d4f8f;
+     background-color: #a5a8f8;
      font-family: Georgia, serif;
-     color: rgb(239, 227, 227);
+     color: rgb(66, 57, 57);
+}
+
+.title-recipes {
+     text-align: center;
 }
 
 .title-recipes,
